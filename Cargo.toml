@@ -1,0 +1,7 @@
+[package]
+name = "AdventOfCode"
+version = "0.1.0"
+authors = ["Beat Wolf <beat.wolf@hefr.ch>"]
+edition = "2018"
+
+[dependencies]
